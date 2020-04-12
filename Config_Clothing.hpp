@@ -257,15 +257,15 @@ class Clothing {
         vests[] = {
             { "NONE", $STR_C_Remove_vests, 0, "" },
             { "V_Chestrig_khk", "", 1500, ""},
-			{ "V_Chestrig_rgr", "", 1500, ""},
-			{ "V_Chestrig_blk", "", 1500, ""},
-			{ "V_Chestrig_oli", "", 1500, ""},
-			{ "V_HarnessO_brn", "", 1500, ""},
-			{ "V_HarnessOGL_brn", "", 1500, ""},
-			{ "V_HarnessO_gry", "", 1500, ""},
-			{ "V_HarnessOGL_gry", "", 1500, ""},
-			{ "V_RebreatherB", "", 1500, ""},
-			{ "V_RebreatherIR", "", 1500, ""}
+	    { "V_Chestrig_rgr", "", 1500, ""},
+	    { "V_Chestrig_blk", "", 1500, ""},
+	    { "V_Chestrig_oli", "", 1500, ""},
+ 	    { "V_HarnessO_brn", "", 1500, ""},
+	    { "V_HarnessOGL_brn", "", 1500, ""},
+	    { "V_HarnessO_gry", "", 1500, ""},
+	    { "V_HarnessOGL_gry", "", 1500, ""},
+	    { "V_RebreatherB", "", 1500, ""},
+	    { "V_RebreatherIR", "", 1500, ""}
         };
         backpacks[] = {
             { "NONE", $STR_C_Remove_backpacks, 0, "" }
